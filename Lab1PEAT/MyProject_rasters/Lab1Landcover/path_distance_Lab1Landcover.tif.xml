@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20260928</CreaDate><CreaTime>17031500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\CalculateStatistics" Date="20260928" Time="170315">CalculateStatistics C:\Users\stewcasp\Desktop\451_lab1\Lab1PEAT\MyProject_rasters\Lab1Landcover\path_distance_Lab1Landcover.tif 1 1 # OVERWRITE "Feature Set"</Process></lineage></DataProperties></Esri></metadata>
